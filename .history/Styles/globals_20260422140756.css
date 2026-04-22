@@ -1,0 +1,7 @@
+body {
+  background-color: darkgreen;
+}
+a {
+  color: var(--accent);
+  text-decoration: none;
+}

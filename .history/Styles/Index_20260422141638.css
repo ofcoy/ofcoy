@@ -6,6 +6,10 @@
   border-bottom: 1px solid #04e644;
 }
 .section {
+  max-width: 640px;
+  margin: 0;
 }
 .home {
+  padding-top: 4rem;
+  text-align: center;
 }
