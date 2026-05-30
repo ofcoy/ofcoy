@@ -1,0 +1,40 @@
+.Nav-Bar {
+  display: flex;
+  justify-content: center;
+  gap: 3rem;
+  padding: 20px;
+  border-bottom: 2px solid #04e644;
+}
+
+.Nav-Bar a {
+  color: blue;
+  text-decoration: none;
+}
+
+.container {
+  display: grid;
+  max-width: 600px;
+  margin: auto;
+  padding: 20px;
+}
+
+section {
+  padding: 50px 0;
+  border-bottom: 1px solid white;
+}
+
+#fact-display {
+  font-weight: bold;
+  color: yellow;
+}
+
+button {
+  padding: 10px;
+  margin-top: 10px;
+  cursor: pointer;
+}
+
+.footer {
+  text-align: center;
+  padding: 30px;
+}

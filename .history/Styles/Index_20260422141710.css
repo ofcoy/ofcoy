@@ -1,0 +1,13 @@
+.Nav-Bar {
+  display: flex;
+  justify-content: center;
+  gap: 3rem;
+  padding: 1rem;
+  border-bottom: 1px solid #04e644;
+}
+.section {
+}
+.home {
+  padding-top: 4rem;
+  text-align: center;
+}
